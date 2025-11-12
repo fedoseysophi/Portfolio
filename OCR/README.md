@@ -12,11 +12,8 @@ Batch processing: Supports automated processing of multiple images at once, with
 To run the script, make sure you have the following dependencies installed:
 
 numpy
-
 matplotlib
-
 opencv-python
-
 scikit-image
 
 Place your images in the appropriate folder and update the script paths as needed. Results are saved with bounding boxes for matched objects.
